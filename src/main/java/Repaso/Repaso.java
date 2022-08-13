@@ -5,6 +5,7 @@ public class Repaso {
         System.out.println("Hola");
         System.out.println("He agregado una nueva linea ");
         System.out.println("Es mi nueva rama y solo esta en  la nueva  rama  ");
+        System.out.println("Esta linea solamente deberia estar en la segunda nueva rama  ");
     }
 }
 
